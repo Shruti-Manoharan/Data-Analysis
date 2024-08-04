@@ -1,1 +1,1 @@
-Data analysis using pandas library of titanic dataset.
+Data analysis using numpy, pandas, matplotlib and seaborn libraries of various datasets.
